@@ -16,5 +16,4 @@ This repository contains a combined analytical project involving:
 - NLP: DistilBERT (sentiment analysis), BioBERT (biomedical NER)
 - R–Python integration via `reticulate`
 
-## Notes
-Scraped content is collected dynamically at runtime and is not stored in this repository.
+
